@@ -1,0 +1,203 @@
+1584996230408	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofileOsF5oi"
+1584996236296	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584996238225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584996238226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584996238239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584996238239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584996265001	Marionette	INFO	Listening on port 60160
+1584996265532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+1584998479014	Marionette	INFO	Stopped listening on port 60160
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5092: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1585025914906	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofileAhsvMl"
+1585025917461	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585025919023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585025919023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585025919023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585025919023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585025925217	Marionette	INFO	Listening on port 62620
+1585025925858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request aborted
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request aborted
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request aborted
+1585027938301	Marionette	INFO	Stopped listening on port 62620
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585066404032	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofilerW761Q"
+1585066411922	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585066413890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585066413890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585066413890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585066413890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585066444663	Marionette	INFO	Listening on port 51202
+1585066445164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1585067186868	Marionette	INFO	Stopped listening on port 51202
+1585067219700	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofile6lQJO5"
+1585067225982	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585067229024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585067229024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585067229025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585067229025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1585067244083	Marionette	INFO	Listening on port 51365
+1585067244160	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12848, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1583748103/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1844: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12848, Gecko_IOThread] WARNING: file z:/task_158A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+3748103/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585070006292	Marionette	INFO	Stopped listening on port 51365
+oading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585068787736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585068787736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1585068803933	Marionette	INFO	Listening on port 51504
+1585068804613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/subjects/maths, line 2359: TypeError: CC.track is not a function
+JavaScript error: https://www.classcentral.com/subjects/cs, line 2359: TypeError: CC.track is not a function
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request aborted
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1A0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+[Parent 3040, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1583748103/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1844: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1844: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1844: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1844: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1585069967866	Marionette	INFO	Stopped listening on port 51504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5092: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585070069002	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofileaEAjLS"
+1585070073881	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585070075628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585070075628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585070075629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585070075629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585070102980	Marionette	INFO	Listening on port 51653
+1585070103469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+[Parent 12120, Gecko_IOThread] WARNING: file z:/task_1583748103/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 12120, Gecko_IOThread] WARNING: file z:/task_1583748103/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 12120, Gecko_IOThread] WARNING: file z:/task_1583748103/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585070231320	Marionette	INFO	Stopped listening on port 51653
+1585070249769	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofileZuhoN4"
+1585070251769	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585070253344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585070253345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585070253345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585070253345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585070257896	Marionette	INFO	Listening on port 51758
+1585070258226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+1585070350195	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofileE4eZog"
+1585070353110	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585070356067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585070356067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585070356068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585070356068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585070359493	Marionette	INFO	Listening on port 51842
+1585070359731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+1585070888766	Marionette	INFO	Stopped listening on port 51842
+1585070906094	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofileMbRpgf"
+1585070910143	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585070911854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585070911854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585070911854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585070911854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1585070926940	Marionette	INFO	Listening on port 51935
+1585070927198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+1585071221632	Marionette	INFO	Stopped listening on port 51935
+1585071254691	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofile38uSVo"
+1585071258620	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585071261471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585071261472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585071261472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585071261472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1585071277836	Marionette	INFO	Listening on port 52065
+1585071278074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+1585071932314	Marionette	INFO	Stopped listening on port 52065
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofiledra2sd"
+1585071450124	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585071452029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585071452030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585071452030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585071452030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585071460017	Marionette	INFO	Listening on port 52173
+1585071460284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585071721886	Marionette	INFO	Stopped listening on port 52173
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585071781314	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TAIMOO~1\\AppData\\Local\\Temp\\rust_mozprofileoxhCJM"
+1585071785365	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585071786980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585071786980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585071786980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585071786980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585071802249	Marionette	INFO	Listening on port 52262
+1585071802828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.classcentral.com/webpack/analytics.75fe4333a4dabae43592.js, line 1: Error: Request failed with status code 403
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1585074087317	Marionette	INFO	Stopped listening on port 52262
