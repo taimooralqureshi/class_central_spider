@@ -1,12 +1,12 @@
 ## a web scraping project using scrapy.
 
-The targeted site is [classcentral.com]("www.classcentral.com")
+The targeted site is [classcentral.com](www.classcentral.com)
 in which I scraped the whole site for the following data points.
 1. course's subject.
 2. course's title.
 3. course's url
 
-I got 16173 records. [classcentral.com]("www.classcentral.com") is  listing all the free and partial free online available 
+I got 16173 records. [classcentral.com](http://www.classcentral.com) is  listing all the free and partial free online available 
 courses offered by different universities and institutes for the various topics and subjects. also ranking them by 
 their popularity and content.
 
